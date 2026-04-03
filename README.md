@@ -50,10 +50,5 @@ Me apasiona construir software eficiente, rápido y escalable. Disfruto moviénd
 
 ---
 
-### 📊 Mis Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josemigg16&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de Josemigg16" />
-</p>
-
 ### 📫 Cómo contactarme
 - 🌍 **Portafolio:** [josemigg.dev](http://josemigg.dev)
